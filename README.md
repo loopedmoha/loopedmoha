@@ -11,14 +11,14 @@ Este es mi repositorio personal donde podrás encontrar desde ejercicios hechos 
 Dentro de la informática estoy interesado en la inteligencia artificial, el analisis de datos, los videojuegos y el desarrollo en general. No es satisfactorio si no es un reto.
 
 Fuera de la informática, uso mi tiempo en videojuegos🎮, películas🎬, series📺... lo típico aquí no hay nada especial. 
-Además, me encanta ir a escalar🧗🏼‍♂️, soy master y jugador de rol🎲, y, un intento de artista 3D y de VFX (campos a los que también quiero aplicar la informática).
+Además, me encanta ir a escalar🧗🏼‍♂️, soy master y jugador de rol🎲, y, un intento de artista 3D (campo al que también quiero aplicar la informática).
 
 Estas son las tecnologías en las que suelo trabajar:
 
 
 <div align="center">
 <img src="imagenes/python.png" width="64">
-<img src="imagenes/cplusplus.png" width="64">
+<img src="imagenes/c++.png" width="64">
 <img src="imagenes/java.png" width="32">
 <img src="imagenes/haskell.png" width="64">
 <br>
