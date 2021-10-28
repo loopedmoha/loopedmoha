@@ -1,16 +1,44 @@
-### Hi there 👋
 
-<!--
-**loopedmoha/loopedmoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="imagenes/header.png">
+</div>
+### Hola, soy Mohamed (Moha) 👋
 
-Here are some ideas to get you started:
+Actualmente estudiando *Desarrollo de Aplicaciones Multiplataforma* (**DAM**) en el IES Luis Vives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Este es mi repositorio personal donde podrás encontrar desde ejercicios hechos durando el grado a pequeños proyectos personales que ire haciendo en mi tiempo libre. 
+
+Dentro de la informática estoy interesado en la inteligencia artificial, el analisis de datos, los videojuegos y el desarrollo en general. No es satisfactorio si no es un reto.
+
+Fuera de la informática, uso mi tiempo en videojuegos🎮, películas🎬, series📺... lo típico aquí no hay nada especial. 
+Además, me encanta ir a escalar🧗🏼‍♂️, soy master y jugador de rol🎲, y, un intento de artista 3D (campo al que también quiero aplicar la informática).
+
+Estas son las tecnologías en las que suelo trabajar:
+
+
+<div align="center">
+<img src="imagenes/python.png" width="64">
+<img src="imagenes/cplusplus.png" width="64">
+<img src="imagenes/java.png" width="32">
+<img src="imagenes/haskell.png" width="64">
+<br>
+<img src="imagenes/vscode.png" width="64"> 
+<img src="imagenes/intellij.png" width="64">
+<img src="imagenes/vs.svg" width="64">
+<img src="imagenes/git.png" width="64">
+
+<br>
+<img src="imagenes/unity.png" width="64">
+<img src="imagenes/blender.png" width="64">
+<img src="imagenes/ue4.png" width="64">
+<img src="imagenes/ae.svg" width="64">
+<br>
+</div>
+
+
+
+
+
+
+
+
