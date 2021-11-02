@@ -2,7 +2,8 @@
 <div align="center">
 <img src="imagenes/header.png">
 </div>
-### Hola, soy Mohamed (Moha) 👋
+
+## Hola, soy Mohamed (Moha) 👋
 
 Actualmente estudiando *Desarrollo de Aplicaciones Multiplataforma* (**DAM**) en el IES Luis Vives.
 
