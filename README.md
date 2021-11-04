@@ -14,7 +14,7 @@ Dentro de la informática estoy interesado en la inteligencia artificial, el ana
 Fuera de la informática, uso mi tiempo en videojuegos🎮, películas🎬, series📺... lo típico aquí no hay nada especial. 
 Además, me encanta ir a escalar🧗🏼‍♂️, soy master y jugador de rol🎲, y, un intento de artista 3D y VFX (campos a los que también quiero aplicar la informática).
 
-Estas son las tecnologías en las que suelo trabajar:
+Estas son las tecnologías que conozco:
 
 
 <div align="center">
