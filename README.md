@@ -21,7 +21,6 @@ Estas son las tecnologías en las que suelo trabajar:
 <img src="imagenes/python.png" width="64">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="64">
 <img src="imagenes/java.png" width="32">
-<img src="imagenes/haskell.png" width="64">
 <br>
 <img src="imagenes/vscode.png" width="64"> 
 <img src="imagenes/intellij.png" width="64">
